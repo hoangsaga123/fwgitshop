@@ -1,2 +1,2 @@
 # fwgitshop
-A demo for learning GitHub
+A demo repo for learning GitHub
